@@ -1,1 +1,1 @@
-Estamos aprendiendo django y BBDD
+Estamos aprendiendo Python Django y BBDD
